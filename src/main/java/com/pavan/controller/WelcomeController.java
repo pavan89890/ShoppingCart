@@ -13,4 +13,5 @@ public class WelcomeController {
 	public String getGreating() {
 		return "redirect:/swagger-ui.html";
 	}
+
 }
