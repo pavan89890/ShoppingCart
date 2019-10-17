@@ -1,0 +1,4 @@
+1)Open browser and hit http://localhost:8080 it will open swagger-ui.html.
+2)Use this swagger to use services.
+3)Using h2 database.
+4)As you mentioned not to use UI I am exposing services via swagger.
